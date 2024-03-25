@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Dialer</string>
+    <string name="phone_error">Please enter a phone number</string>
+</resources>
